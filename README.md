@@ -5,7 +5,7 @@ Welcome to the **HiTech** GitHub repository! Here, you'll find all the Python co
 ---
 
 ## 🔗 Watch Our Tutorials on YouTube  
-🎥 **YouTube Channel:** [HiTech Studio](https://www.youtube.com/@HiTechStudioo)  
+🎥 **YouTube Channel:** [HiTech Studioo](https://www.youtube.com/@HiTechStudioo)  
 📢 Don't forget to **Subscribe** and turn on notifications to stay updated!  
 
 ---
@@ -61,7 +61,7 @@ python script.py
 
 ## 📢 Stay Connected  
 
-🔗 **YouTube:** [HiTech Studio](https://linktw.in/AYOmVb)  
+🔗 **YouTube:** [HiTech Studioo](https://linktw.in/AYOmVb)  
 📌 **Instagram:** [@HiTech](https://www.instagram.com/hitechpython)  
 💬 **Telegram:** [Join Our Community](https://t.me/HiTech_Codes)  
 
