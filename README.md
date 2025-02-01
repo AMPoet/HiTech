@@ -1,4 +1,4 @@
-# 📌 HiTech Code Repository 🚀  
+# ![HiTech Logo](https://github.com/AMPoet/HiTech/blob/main/HiTech%20Logo%20ico.png?raw=true) HiTech Code Repository 🚀  
 
 Welcome to the **HiTech** GitHub repository! Here, you'll find all the Python code used in our YouTube tutorials. Whether you're a beginner or an advanced programmer, this repo will help you follow along with our videos and practice hands-on coding.  
 
