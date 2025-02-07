@@ -5,7 +5,7 @@ from scipy.io.wavfile import write
 
 def record(duration, fs):  
     print("Start recording...")
-    # ضبط صدا
+    # Recording
     my_record = sd.rec(int(duration * fs), samplerate=fs, channels=2, dtype='int16')
     sd.wait()
     
